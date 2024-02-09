@@ -1,4 +1,4 @@
-#### Price Predictor
+# Price Predictor
 
 Price predictor is a program that creates predictive model(s) for used car prices ($).
 
