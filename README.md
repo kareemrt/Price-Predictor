@@ -25,8 +25,11 @@ The error metric is MAPE (Mean Absolute % Error), which depicts how far off %-wi
 
 ## Sample Graphs
 
-![Outlier Image](img/preprocess.png)
-![Noutlier Image](img/postprocess.png)
+With outliers
+<img src="img/preprocess.png" width="200" height="100">
+
+Without outliers
+<img src="img/postprocess.png" width="200" height="100">
   
 ## About
 
